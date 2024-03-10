@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+
 // Definición de las tasas de cambio
 #define GTQ_TO_USD 0.12801
 #define USD_TO_GTQ 7.81174
